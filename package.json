@@ -73,7 +73,7 @@
   "cordova": {
     "plugins": {
       "cordova-plugin-googlemaps": {
-        "API_KEY_FOR_ANDROID": "AIzaSyDvnrn4179xHiXqCU_8c_ot4VeIJEcrNJ8"
+        "API_KEY_FOR_ANDROID": "[YOUR API KEY]"
       },
       "cordova-plugin-geolocation": {},
       "cordova-plugin-network-information": {},
